@@ -8,7 +8,7 @@ import primitives.*;
  * @author Ochrith Perez and Guila Czerniewicz
  */
 
-public abstract class Geometry {
+public abstract class Geometry implements Intersectable {
 
     /**
      * abstract function to get the normal of the vector
