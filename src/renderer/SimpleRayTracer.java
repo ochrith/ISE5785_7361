@@ -11,7 +11,7 @@ import scene.Scene;
  *
  * Provides a simple implementation for determining the color along a ray.
  *
- * @author Ochrith Perez and Guila Czerniewicz
+ * @author Ochrith Perez 
  */
 public class SimpleRayTracer extends RayTracerBase {
 
