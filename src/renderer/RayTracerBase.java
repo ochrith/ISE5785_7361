@@ -8,7 +8,7 @@ import scene.Scene;
 /**
  * Abstract base class for ray tracing in a 3D scene.
  * Provides the structure for tracing rays and calculating their color.
- * @author Ochrith Perez and Guila Czerniewicz
+ * @author Ochrith Perez 
  */
 public abstract class RayTracerBase {
 
