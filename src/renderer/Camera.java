@@ -15,7 +15,7 @@ import static primitives.Util.isZero;
 /**
  * The Camera class represents a camera in a 3D space with the ability to
  * generate rays through pixels for rendering.
- * @author Ochrith Perez and Guila Czerniewicz
+ * @author Ochrith Perez 
  */
 public class Camera implements Cloneable {
     // Camera properties
