@@ -2,7 +2,7 @@ package primitives;
 
 /**
  * Unit tests for primitives.Vector class
- * @author Ochrith Perez and Guila Czerniewicz
+ * @author Ochrith Perez 
  */
 
 
