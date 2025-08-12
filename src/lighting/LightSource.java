@@ -6,7 +6,7 @@ import primitives.*;
  * It provides methods to get the intensity of the light at a specific point
  * and the direction of the light.
  *
- * @author Ochrith Perez and Guila Czerniewicz
+ * @author Ochrith Perez 
  */
 public interface LightSource {
 
