@@ -4,7 +4,7 @@ package primitives;
  * Class Point is the basic class representing a point of geometry
  * 3-Dimensional coordinate system.
  *
- * @author Ochrith Perez and Guila Czerniewicz
+ * @author Ochrith Perez 
  */
 public class Point {
 
