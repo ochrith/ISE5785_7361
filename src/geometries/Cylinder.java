@@ -9,7 +9,7 @@ import static primitives.Util.isZero;
 /**
  * class Cylinder is a class representing a cylinder
  *
- * @author Ochrith Perez and Guila Czerniewicz
+ * @author Ochrith Perez 
  */
 
 public class Cylinder extends Tube{
