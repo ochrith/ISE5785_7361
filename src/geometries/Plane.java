@@ -13,7 +13,7 @@ import static primitives.Util.alignZero;
 /**
  * class Plane is a class representing a plane
  *
- * @author Ochrith Perez and Guila Czerniewicz
+ * @author Ochrith Perez 
  */
 public class Plane extends Geometry{
 
