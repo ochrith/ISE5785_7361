@@ -2,7 +2,7 @@ package geometries;
 
 /**
  * Unit tests for primitives.PlaneTest class
- * @author Ochrith Perez and Guila Czerniewicz
+ * @author Ochrith Perez 
  */
 
 import primitives.Double3;
