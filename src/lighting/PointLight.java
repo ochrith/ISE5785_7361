@@ -5,7 +5,7 @@ import primitives.*;
 /**
  * PointLight class represents a point light source in the scene.
  * It extends the Light class and implements the LightSource interface.
- * @author Ochrith Perez and Guila Czerniewicz
+ * @author Ochrith Perez 
  */
 public class PointLight extends Light  implements LightSource{
 
