@@ -7,7 +7,7 @@ import primitives.Vector;
  * class radialGeometry is a class representing a geometry
  * with a radius
  *
- * @author Ochrith Perez and Guila Czerniewicz
+ * @author Ochrith Perez 
  */
 public abstract class RadialGeometry extends Geometry{
 
