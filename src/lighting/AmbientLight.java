@@ -4,7 +4,7 @@ import primitives.Color;
 
 /**
  * AmbientLight class represents the ambient light in the scene
- * @author Ochrith Perez and Guila Czerniewicz
+ * @author Ochrith Perez 
  */
 public class AmbientLight extends Light {
 
