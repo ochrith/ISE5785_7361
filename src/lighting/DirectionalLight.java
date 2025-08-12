@@ -7,7 +7,7 @@ import primitives.Vector;
 /**
  * DirectionalLight class represents a directional light source in the scene.
  * It extends the Light class and implements the LightSource interface.
- * @author Ochrith Perez and Guila Czerniewicz
+ * @author Ochrith Perez 
  */
 public class DirectionalLight extends Light implements LightSource{
     /**
