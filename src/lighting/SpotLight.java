@@ -8,7 +8,7 @@ import static primitives.Util.alignZero;
 /**
  * SpotLight class represents a spotlight in the scene.
  * It extends the PointLight class and adds a direction to the light.
- * @author Ochrith Perez and Guila Czerniewicz
+ * @author Ochrith Perez 
  */
 public class SpotLight extends PointLight{
     /**
