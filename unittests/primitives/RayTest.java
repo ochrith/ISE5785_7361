@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 /**
  * Unit tests for primitives.Ray class
- * @author Ochrith Perez and Guila Czerniewicz
+ * @author Ochrith Perez 
  */
 
 class RayTest {
