@@ -14,7 +14,7 @@ import static primitives.Util.alignZero;
 /**
  * class Sphere is a class representing a sphere
  *
- * @author Ochrith Perez and Guila Czerniewicz
+ * @author Ochrith Perez 
  */
 public class Sphere extends RadialGeometry{
 
