@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * The Geometries class implements operations for several geometric bodies
  *
- * @author Ochrith Perez and Guila Czerniewicz
+ * @author Ochrith Perez 
  */
 public class Geometries extends Intersectable{
 
