@@ -9,7 +9,7 @@ import java.util.Objects;
  * Abstract class Intersectable represents a geometry object that can be
  * intersected by a ray.
  *
- * @author Devorah wajs and guila czerniewicz
+ * @author Ochrith Perez
  */
 public abstract class Intersectable {
 
