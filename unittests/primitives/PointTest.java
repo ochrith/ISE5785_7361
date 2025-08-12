@@ -2,7 +2,7 @@ package primitives;
 
 /**
  * Unit tests for primitives.Point class
- * @author Ochrith Perez and Guila Czerniewicz
+ * @author Ochrith Perez 
  */
 import org.junit.jupiter.api.Test;
 
