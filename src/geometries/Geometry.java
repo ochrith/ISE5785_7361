@@ -5,7 +5,7 @@ import primitives.*;
 /**
  * class Geometries is a class representing a set of geometric shapes
  *
- * @author Ochrith Perez and Guila Czerniewicz
+ * @author Ochrith Perez 
  */
 
 public abstract class Geometry extends Intersectable {
