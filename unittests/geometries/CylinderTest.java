@@ -1,7 +1,7 @@
 package geometries;
 /**
  * Unit tests for primitives.CylinderTest class
- * @author Ochrith Perez and Guila Czerniewicz
+ * @author Ochrith Perez 
  */
 import org.junit.jupiter.api.Test;
 import primitives.*;
