@@ -6,7 +6,7 @@ package primitives;
  * It contains the diffuse coefficient (kA) of the material, which determines
  * how much light is reflected by the surface.
  *
- * @author Ochrith Perez and Guila Czerniewicz
+ * @author Ochrith Perez 
  */
 public class Material {
 
