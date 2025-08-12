@@ -10,7 +10,7 @@ import java.util.List;
  * Class Ray is the basic class representing a ray of geometry
  * 3-Dimensional coordinate system.
  *
- * @author Ochrith Perez and Guila Czerniewicz
+ * @author Ochrith Perez 
  */
 
 public class Ray {
