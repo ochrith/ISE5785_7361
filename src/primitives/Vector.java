@@ -3,7 +3,7 @@ package primitives;
  * Class Vector is the basic class representing a vector of geometry
  * 3-Dimensional coordinate system.
  *
- * @author Ochrith Perez and Guila Czerniewicz
+ * @author Ochrith Perez 
  */
 public class Vector extends Point{
     // Defines a constant vector representing the X-axis direction (positive X, no Y or Z movement)
